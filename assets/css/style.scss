@@ -35,7 +35,11 @@ a:hover {
 .colorHighlight {
     color: $color;
 }
-img {
+ img {
+    width: 100%;
+    height: 100%;
+}
+.sitePic img {
     width: 100%;
     height: 450px;
 }
